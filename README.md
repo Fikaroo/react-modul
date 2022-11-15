@@ -1,8 +1,8 @@
-# All task name equal branch name
+# All tasks name equal branch name
 
 You can clone this repository then you need run on terminal
 
-### git checkout 'branch_name'
+### `git checkout 'branch_name'`
 
 example: git checkout master
 
