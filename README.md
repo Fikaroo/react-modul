@@ -1,4 +1,4 @@
-# All tasks name equal branch name
+# All tasks name equals branch name
 
 You can clone this repository then you need run on terminal
 
