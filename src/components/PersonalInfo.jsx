@@ -1,17 +1,14 @@
 import React from "react";
+import Address from "./Address";
+import Email from "./Email";
+import Name from "./Name";
 
 const PersonalInfo = () => {
-  const personalData = {
-    name: "Fuad",
-    age: 20,
-    district: "Baku, Khatai",
-  };
   return (
     <div>
-      <h2> Personal Info</h2>
-      <p> Name: {personalData.name}</p>
-      <p> Age: {personalData.age}</p>
-      <p> District: {personalData.district}</p>
+      <Email />
+      <Name />
+      <Address />
     </div>
   );
 };
