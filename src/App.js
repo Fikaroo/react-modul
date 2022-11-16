@@ -1,9 +1,9 @@
-import Profile from "./components/Profile";
+import UserLogin from "./components/UserLogin";
 
 function App() {
   return (
     <div className="App">
-      <Profile />
+      <UserLogin />
     </div>
   );
 }
