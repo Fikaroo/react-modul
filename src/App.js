@@ -1,9 +1,9 @@
-import UserLogin from "./components/UserLogin";
+import Dice from "./components/Dice";
 
 function App() {
   return (
     <div className="App">
-      <UserLogin />
+      <Dice />
     </div>
   );
 }
