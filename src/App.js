@@ -1,9 +1,9 @@
-import HospitalForm from "./components/HospitalForm";
+import Form from "./components/Form";
 
 function App() {
   return (
     <div className="App">
-      <HospitalForm />
+      <Form />
     </div>
   );
 }
