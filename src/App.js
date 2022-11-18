@@ -1,9 +1,11 @@
-import Form from "./components/Form";
+import CustomButton from "./components/CustomBtn";
 
 function App() {
   return (
     <div className="App">
-      <Form />
+      <CustomButton hint="going Home Page" text="Click" warnMessage="ok" />
+      <CustomButton hint="Show list" text="Button" />
+      <CustomButton text="Test" warnMessage="test btn" />
     </div>
   );
 }
